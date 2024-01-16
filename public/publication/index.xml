@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Christopher J. Fiscus, PhD</title>
+    <link>https:cjfiscus.github.io/publication/</link>
+      <atom:link href="https:cjfiscus.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https:cjfiscus.github.io/media/icon_hu513f0b2557e52f64f423be8b9681a719_92642_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https:cjfiscus.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>The pattern of genetic variability in a core collection of 2,021 cowpea accessions</title>
+      <link>https:cjfiscus.github.io/publication/fiscus2023/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https:cjfiscus.github.io/publication/fiscus2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley</title>
+      <link>https:cjfiscus.github.io/publication/landis2023/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https:cjfiscus.github.io/publication/landis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide</title>
+      <link>https:cjfiscus.github.io/publication/martinez2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https:cjfiscus.github.io/publication/martinez2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/Fiscus2024/jkae071.pdf'
+url_pdf: 'content/publication/Fiscus2024/Fiscus2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
